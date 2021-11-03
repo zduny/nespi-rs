@@ -1,0 +1,10 @@
+[Unit]
+Description=safe shutdown service for NESPi CASE PLUS
+DefaultDependencies=no
+
+[Service]
+ExecStart=/usr/local/bin/safe_shutdown
+Restart=no
+
+[Install]
+WantedBy=sysinit.target

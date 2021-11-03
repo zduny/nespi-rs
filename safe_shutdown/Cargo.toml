@@ -1,0 +1,10 @@
+[package]
+name = "safe_shutdown"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+crossbeam-channel = "0.5.1"
+system_shutdown = "3.0.0"
+rppal = "0.13.1"
+interruptor = "0.1.0"
