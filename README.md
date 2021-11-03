@@ -38,7 +38,7 @@ sudo mv power_down /usr/lib/systemd/system-shutdown/power_down
 ```
 
 ## disclaimer
-This project is in no way affilated with the Retroflag brand/company.
+This project is in no way affiliated with the Retroflag brand/company.
 
 ## see also
 [Retroflag](https://retroflag.com/)
